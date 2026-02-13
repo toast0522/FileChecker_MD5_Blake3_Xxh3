@@ -80,3 +80,6 @@ Typical Use Cases
 Credits
 
 This project was VibeCoded with ChatGPT.
+
+Release download:
+https://github.com/toast0522/FileChecker_MD5_Blake3_Xxh3/releases/tag/v19
